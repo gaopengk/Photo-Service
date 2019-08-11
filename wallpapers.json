@@ -1,12 +1,35 @@
 {
   "Wallpapers":
-  [
-    
+  [ 
     {
       "author": "gaopeng",
       "url": "https://raw.githubusercontent.com/gaopengk/Wallpaper/master/files/home_wallpaper_0.jpg",
       "thumbUrl": "https://raw.githubusercontent.com/gaopengk/Wallpaper/master/files/home_wallpaper_0.jpg",
       "name": "Material Mountain"
+    },
+    {
+      "author": "papers.co",
+      "url": "https://raw.githubusercontent.com/gaopengk/Wallpaper/master/files/home_wallpaper_1.jpg",
+      "thumbUrl": "https://raw.githubusercontent.com/gaopengk/Wallpaper/master/files/home_wallpaper_1.jpg",
+      "name": "Summer Tree"
+    },
+    {
+      "author": "papers.co",
+      "url": "https://raw.githubusercontent.com/gaopengk/Wallpaper/master/files/home_wallpaper_2.jpg",
+      "thumbUrl": "https://raw.githubusercontent.com/gaopengk/Wallpaper/master/files/home_wallpaper_2.jpg",
+      "name": "Wall Pink Pattern"
+    },
+    {
+      "author": "papers.co",
+      "url": "https://raw.githubusercontent.com/gaopengk/Wallpaper/master/files/home_wallpaper_3.jpg",
+      "thumbUrl": "https://raw.githubusercontent.com/gaopengk/Wallpaper/master/files/home_wallpaper_3.jpg",
+      "name": "Abstract Digital Art"
+    },
+    {
+      "author": "papers.co",
+      "url": "https://raw.githubusercontent.com/gaopengk/Wallpaper/master/files/home_wallpaper_4.jpg",
+      "thumbUrl": "https://raw.githubusercontent.com/gaopengk/Wallpaper/master/files/home_wallpaper_4.jpg",
+      "name": "Curve Dannyivan Line"
     },
   ]
 }
