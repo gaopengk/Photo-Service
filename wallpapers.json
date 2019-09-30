@@ -7,6 +7,7 @@
       "thumbUrl": "https://raw.githubusercontent.com/gaopengk/Wallpaper/master/files/home_wallpaper_0.jpg",
       "name": "Material Mountain"
     },
+    {"author":"papers.co","url":"http://papers.co/wallpaper/papers.co-vf98-snow-falling-nature-pattern-40-wallpaper.jpg","thumbUrl":"http://papers.co/wp-content/uploads/papers.co-vf98-snow-falling-nature-pattern-1-wallpaper-300x300.jpg","name":"vf98-snow-falling-nature-pattern"},
     {
       "author": "papers.co",
       "url": "http://papers.co/wallpaper/papers.co-ob59-summer-tree-palm-nature-40-wallpaper.jpg",
@@ -85,12 +86,6 @@
       "url": "http://papers.co/wallpaper/papers.co-bd56-fish-pink-rose-gold-shark-art-illustration-40-wallpaper.jpg",
       "thumbUrl": "http://papers.co/wp-content/uploads/papers.co-bd56-fish-pink-rose-gold-shark-art-illustration-1-wallpaper-300x300.jpg",
       "name": "Rose Gold Shark"
-    },
-    {
-      "author": "papers.co",
-      "url": "http://papers.co/wallpaper/papers.co-be71-car-headlight-audi-art-illustration-blue-pink-40-wallpaper.jpg",
-      "thumbUrl": "http://papers.co/wp-content/uploads/papers.co-be71-car-headlight-audi-art-illustration-blue-pink-1-wallpaper-300x300.jpg",
-      "name": "Headlight Audi"
-    },
+    }
   ]
 }
