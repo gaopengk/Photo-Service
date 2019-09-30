@@ -1,91 +1,21 @@
 {
   "Wallpapers":
   [ 
-    {
-      "author": "gaopeng",
-      "url": "https://raw.githubusercontent.com/gaopengk/Wallpaper/master/files/home_wallpaper_0.jpg",
-      "thumbUrl": "https://raw.githubusercontent.com/gaopengk/Wallpaper/master/files/home_wallpaper_0.jpg",
-      "name": "Material Mountain"
-    },
-    {"author":"papers.co","url":"http://papers.co/wallpaper/papers.co-vf98-snow-falling-nature-pattern-40-wallpaper.jpg","thumbUrl":"http://papers.co/wp-content/uploads/papers.co-vf98-snow-falling-nature-pattern-1-wallpaper-300x300.jpg","name":"vf98-snow-falling-nature-pattern"},
-    {
-      "author": "papers.co",
-      "url": "http://papers.co/wallpaper/papers.co-ob59-summer-tree-palm-nature-40-wallpaper.jpg",
-      "thumbUrl": "http://papers.co/wp-content/uploads/papers.co-ob59-summer-tree-palm-nature-1-wallpaper-300x300.jpg",
-      "name": "Summer Tree"
-    },
-    {
-      "author": "papers.co",
-      "url": "http://papers.co/wallpaper/papers.co-vw84-wall-pink-pattern-background-40-wallpaper.jpg",
-      "thumbUrl": "http://papers.co/wp-content/uploads/papers.co-vw84-wall-pink-pattern-background-1-wallpaper-300x300.jpg",
-      "name": "Wall Pink"
-    },
-    {
-      "author": "papers.co",
-      "url": "http://papers.co/wallpaper/papers.co-vx66-abstract-digital-art-blue-pattern-background-40-wallpaper.jpg",
-      "thumbUrl": "http://papers.co/wp-content/uploads/papers.co-vx66-abstract-digital-art-blue-pattern-background-1-wallpaper-300x300.jpg",
-      "name": "Abstract Digital Art"
-    },
-    {
-      "author": "papers.co",
-      "url": "http://papers.co/wallpaper/papers.co-wc41-curve-dannyivan-line-abstract-pattern-background-red-40-wallpaper.jpg",
-      "thumbUrl": "http://papers.co/wp-content/uploads/papers.co-wc41-curve-dannyivan-line-abstract-pattern-background-red-1-wallpaper-300x300.jpg",
-      "name": "Curve Dannyivan Line"
-    },
-    {
-      "author": "papers.co",
-      "url": "http://papers.co/wallpaper/papers.co-bc76-fall-autume-tree-anime-paint-art-illustration-40-wallpaper.jpg",
-      "thumbUrl": "http://papers.co/wp-content/uploads/papers.co-bc76-fall-autume-tree-anime-paint-art-illustration-1-wallpaper-300x300.jpg",
-      "name": "Fall Autume Tree"
-    },
-    {
-      "author": "papers.co",
-      "url": "http://papers.co/wallpaper/papers.co-bj44-mac-apple-pattern-dark-oil-art-40-wallpaper.jpg",
-      "thumbUrl": "http://papers.co/wp-content/uploads/papers.co-bj44-mac-apple-pattern-dark-oil-art-1-wallpaper-300x300.jpg",
-      "name": "Dark Oil Art"
-    },
-    {
-      "author": "papers.co",
-      "url": "http://papers.co/wallpaper/papers.co-vw24-abstract-line-rainbow-pattern-background-blue-40-wallpaper.jpg",
-      "thumbUrl": "http://papers.co/wp-content/uploads/papers.co-vw24-abstract-line-rainbow-pattern-background-blue-1-wallpaper-300x300.jpg",
-      "name": "Abstract Line Rainbow"
-    },
-    {
-      "author": "papers.co",
-      "url": "http://papers.co/wallpaper/papers.co-bi84-illust-blue-city-home-dot-art-40-wallpaper.jpg",
-      "thumbUrl": "http://papers.co/wp-content/uploads/papers.co-bi84-illust-blue-city-home-dot-art-1-wallpaper-300x300.jpg",
-      "name": "Blue City"
-    },
-    /*2019-8-12*/
-    {
-      "author": "papers.co",
-      "url": "http://papers.co/wallpaper/papers.co-nk71-street-car-japan-night-yellow-40-wallpaper.jpg",
-      "thumbUrl": "http://papers.co/wp-content/uploads/papers.co-nk71-street-car-japan-night-yellow-1-wallpaper-300x300.jpg",
-      "name": "Japan Night"
-    },
-    {
-      "author": "papers.co",
-      "url": "http://papers.co/wallpaper/papers.co-nk75-night-mountain-blue-sky-space-star-dark-40-wallpaper.jpg",
-      "thumbUrl": "http://papers.co/wp-content/uploads/papers.co-nk75-night-mountain-blue-sky-space-star-dark-1-wallpaper-300x300.jpg",
-      "name": "Space Star"
-    },
-    {
-      "author": "papers.co",
-      "url": "http://papers.co/wallpaper/papers.co-oc56-japan-architecture-red-nature-40-wallpaper.jpg",
-      "thumbUrl": "http://papers.co/wp-content/uploads/papers.co-oc56-japan-architecture-red-nature-1-wallpaper-300x300.jpg",
-      "name": "Japan Architecture"
-    },
-    {
-      "author": "papers.co",
-      "url": "http://papers.co/wallpaper/papers.co-ni88-wood-tree-simple-nature-blue-40-wallpaper.jpg",
-      "thumbUrl": "http://papers.co/wp-content/uploads/papers.co-ni88-wood-tree-simple-nature-blue-1-wallpaper-300x300.jpg",
-      "name": "Wood Tree"
-    },
-    {
-      "author": "papers.co",
-      "url": "http://papers.co/wallpaper/papers.co-bd56-fish-pink-rose-gold-shark-art-illustration-40-wallpaper.jpg",
-      "thumbUrl": "http://papers.co/wp-content/uploads/papers.co-bd56-fish-pink-rose-gold-shark-art-illustration-1-wallpaper-300x300.jpg",
-      "name": "Rose Gold Shark"
-    }
+{"author":"gaopeng","url":"https://raw.githubusercontent.com/gaopengk/Wallpaper/master/files/home_wallpaper_0.jpg","thumbUrl":"https://raw.githubusercontent.com/gaopengk/Wallpaper/master/files/home_wallpaper_0.jpg","name":"Material Mountain"},
+{"author":"papers.co","url":"http://papers.co/wallpaper/papers.co-bc76-fall-autume-tree-anime-paint-art-illustration-40-wallpaper.jpg","thumbUrl":"http://papers.co/wp-content/uploads/papers.co-bc76-fall-autume-tree-anime-paint-art-illustration-1-wallpaper-300x300.jpg","name":"bc76-fall-autume-tree-anime-paint-art-illustration"},
+{"author":"papers.co","url":"http://papers.co/wallpaper/papers.co-bd56-fish-pink-rose-gold-shark-art-illustration-40-wallpaper.jpg","thumbUrl":"http://papers.co/wp-content/uploads/papers.co-bd56-fish-pink-rose-gold-shark-art-illustration-1-wallpaper-300x300.jpg","name":"bd56-fish-pink-rose-gold-shark-art-illustration"},
+{"author":"papers.co","url":"http://papers.co/wallpaper/papers.co-be71-car-headlight-audi-art-illustration-blue-pink-40-wallpaper.jpg","thumbUrl":"http://papers.co/wp-content/uploads/papers.co-be71-car-headlight-audi-art-illustration-blue-pink-1-wallpaper-300x300.jpg","name":"be71-car-headlight-audi-art-illustration-blue-pink"},
+{"author":"papers.co","url":"http://papers.co/wallpaper/papers.co-bi84-illust-blue-city-home-dot-art-40-wallpaper.jpg","thumbUrl":"http://papers.co/wp-content/uploads/papers.co-bi84-illust-blue-city-home-dot-art-1-wallpaper-300x300.jpg","name":"bi84-illust-blue-city-home-dot-art"},
+{"author":"papers.co","url":"http://papers.co/wallpaper/papers.co-bj44-mac-apple-pattern-dark-oil-art-40-wallpaper.jpg","thumbUrl":"http://papers.co/wp-content/uploads/papers.co-bj44-mac-apple-pattern-dark-oil-art-1-wallpaper-300x300.jpg","name":"bj44-mac-apple-pattern-dark-oil-art"},
+{"author":"papers.co","url":"http://papers.co/wallpaper/papers.co-ni88-wood-tree-simple-nature-blue-40-wallpaper.jpg","thumbUrl":"http://papers.co/wp-content/uploads/papers.co-ni88-wood-tree-simple-nature-blue-1-wallpaper-300x300.jpg","name":"ni88-wood-tree-simple-nature-blue"},
+{"author":"papers.co","url":"http://papers.co/wallpaper/papers.co-nk71-street-car-japan-night-yellow-40-wallpaper.jpg","thumbUrl":"http://papers.co/wp-content/uploads/papers.co-nk71-street-car-japan-night-yellow-1-wallpaper-300x300.jpg","name":"nk71-street-car-japan-night-yellow"},
+{"author":"papers.co","url":"http://papers.co/wallpaper/papers.co-nk75-night-mountain-blue-sky-space-star-dark-40-wallpaper.jpg","thumbUrl":"http://papers.co/wp-content/uploads/papers.co-nk75-night-mountain-blue-sky-space-star-dark-1-wallpaper-300x300.jpg","name":"nk75-night-mountain-blue-sky-space-star-dark"},
+{"author":"papers.co","url":"http://papers.co/wallpaper/papers.co-ob59-summer-tree-palm-nature-40-wallpaper.jpg","thumbUrl":"http://papers.co/wp-content/uploads/papers.co-ob59-summer-tree-palm-nature-1-wallpaper-300x300.jpg","name":"ob59-summer-tree-palm-nature"},
+{"author":"papers.co","url":"http://papers.co/wallpaper/papers.co-oc56-japan-architecture-red-nature-40-wallpaper.jpg","thumbUrl":"http://papers.co/wp-content/uploads/papers.co-oc56-japan-architecture-red-nature-1-wallpaper-300x300.jpg","name":"oc56-japan-architecture-red-nature"},
+{"author":"papers.co","url":"http://papers.co/wallpaper/papers.co-vf98-snow-falling-nature-pattern-40-wallpaper.jpg","thumbUrl":"http://papers.co/wp-content/uploads/papers.co-vf98-snow-falling-nature-pattern-1-wallpaper-300x300.jpg","name":"vf98-snow-falling-nature-pattern"},
+{"author":"papers.co","url":"http://papers.co/wallpaper/papers.co-vw24-abstract-line-rainbow-pattern-background-blue-40-wallpaper.jpg","thumbUrl":"http://papers.co/wp-content/uploads/papers.co-vw24-abstract-line-rainbow-pattern-background-blue-1-wallpaper-300x300.jpg","name":"vw24-abstract-line-rainbow-pattern-background-blue"},
+{"author":"papers.co","url":"http://papers.co/wallpaper/papers.co-vw84-wall-pink-pattern-background-40-wallpaper.jpg","thumbUrl":"http://papers.co/wp-content/uploads/papers.co-vw84-wall-pink-pattern-background-1-wallpaper-300x300.jpg","name":"vw84-wall-pink-pattern-background"},
+{"author":"papers.co","url":"http://papers.co/wallpaper/papers.co-vx66-abstract-digital-art-blue-pattern-background-40-wallpaper.jpg","thumbUrl":"http://papers.co/wp-content/uploads/papers.co-vx66-abstract-digital-art-blue-pattern-background-1-wallpaper-300x300.jpg","name":"vx66-abstract-digital-art-blue-pattern-background"},
+{"author":"papers.co","url":"http://papers.co/wallpaper/papers.co-wc41-curve-dannyivan-line-abstract-pattern-background-red-40-wallpaper.jpg","thumbUrl":"http://papers.co/wp-content/uploads/papers.co-wc41-curve-dannyivan-line-abstract-pattern-background-red-1-wallpaper-300x300.jpg","name":"wc41-curve-dannyivan-line-abstract-pattern-background-red"}
   ]
 }
